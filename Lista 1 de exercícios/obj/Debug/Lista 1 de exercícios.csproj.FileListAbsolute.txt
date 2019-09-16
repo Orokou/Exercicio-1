@@ -1,0 +1,58 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaInicial.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.pdb
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.exe.config
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.exe
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.pdb
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.csprojAssemblyReference.cache
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio1.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaInicial.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Properties.Resources.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.csproj.GenerateResource.cache
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.csproj.CoreCompileInputs.cache
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.exe
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.pdb
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio2.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio3.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio4.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio5.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio6.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio7.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio10.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio11.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio8.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio9.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio12.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio13.resources
+C:\Users\Érick\Desktop\VisualStudio\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio14.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.exe.config
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.exe
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.pdb
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio1.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio12.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio13.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio14.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio2.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio3.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio4.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio5.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio6.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaExercicio7.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.telaInicial.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio10.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio11.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio8.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio9.resources
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista 1 de exercícios.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.exe
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\bin\Debug\Lista 1 de exercícios.pdb
+C:\Users\Aluno\Desktop\Lista 1 de exercícios\Lista 1 de exercícios\obj\Debug\Lista_1_de_exercícios.Exercicio15.resources
